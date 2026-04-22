@@ -1,0 +1,10 @@
+Type;Name;Priority;Status
+Requirement;Automatyczna detekcja uszkodzeń nawierzchni (AI) ;High;Mandatory
+Requirement;Geolokalizacja uszkodzeń ;Medium;Mandatory
+Requirement;Panel dyspozytorski;Medium;Mandatory
+Requirement;Synchronizacja danych z serwerem ;Medium;Mandatory
+Requirement;Zaawansowane filtrowanie i raportowanie ;Medium;Mandatory
+Requirement;Zarządzanie cyklem życia zgłoszenia ;Medium;Proposed
+Requirement;Autodiagnostyka zabrudzenia obiektywu (AI) ;Medium;Proposed
+Requirement;Requirement1;Medium;Proposed
+Requirement;System ma realizować własne wymagania funkcjonale;Medium;Proposed
